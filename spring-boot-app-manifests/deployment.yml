@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: abhishekf5/ultimate-cicd:1
+        image: abuzerhub/maven-abuzer-docker-agent:1
         ports:
         - containerPort: 8080
